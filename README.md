@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **framework**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/HP/Downloads/chahat_portfolio_3d.html](file:///C:/Users/HP/Downloads/chahat_portfolio_3d.html)
+- 👨‍💻 All of my projects are available at [chahat_portfolio_3d.html](chahat_portfolio_3d.html)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6495123140259865997](https://www.blogger.com/blog/posts/6495123140259865997)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **chahatsharma4152@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/HP/Downloads/chahat_sharma_resume.html](file:///C:/Users/HP/Downloads/chahat_sharma_resume.html)
+- 📄 Know about my experiences [chahat_sharma_resume.html](chahat_sharma_resume.html)
 
 - ⚡ Fun fact **Your brain uses about 20% of your body’s energy, even though it makes up only around 2% of your body weight! 🧠**
 
