@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP, Laravel, HTML, CSS and Web Development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](chahat_portfolio_3d.html)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
 - 📝 I regularly write articles on [My Blog](https://www.blogger.com/blog/posts/6495123140259865997)
 
