@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **framework**
 
-- 👨‍💻 All of my projects are available at [chahat_portfolio_3d.html](chahat_portfolio_3d.html)
+- 👨‍💻 All of my projects are available at [https://celadon-marzipan-a99809.netlify.app/](chahat_portfolio_3d.html)
 
 - 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6495123140259865997](https://www.blogger.com/blog/posts/6495123140259865997)
 
